@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-<details><summary><strong><a href="https://www.rfberlin.com/network-paper/parents-perceptions-of-occupational-fit/" target="_blank" rel="noopener">Parents' Perceptions of Occupational Fit</a></strong></summary>
+<details><summary><strong><a href="https://www.rfberlin.com/network-paper/parents-perceptions-of-occupational-fit/" target="_blank" rel="noopener">Parents' Perceptions of Occupational Fit</a></strong> <br> with Anne Ardila Brenøe </summary>
 <!-- **[Parents' Perceptions of Occupational Fit](https://www.rfberlin.com/network-paper/parents-perceptions-of-occupational-fit/){:target="_blank" rel="noopener"}**<br>
 with Anne Ardila Brenøe
 <details><summary>Abstract</summary> -->
