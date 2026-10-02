@@ -37,3 +37,25 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Always show contact links on mobile (no "Follow" button) */
+.author__urls-wrapper button {
+  display: none;
+}
+.author__urls-wrapper {
+  cursor: default;
+}
+.author__urls {
+  display: block;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+}
+.author__urls:before,
+.author__urls:after {
+  display: none;
+}
