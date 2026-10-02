@@ -9,7 +9,7 @@ All courses at the University of Zurich.
 
 ## Lecturer
 
-- **Gender Inequality and the Labour Market** (Master's), 2024 — co-developed and co-taught
+- **Gender Inequality and the Labour Market** (Master's), 2024 – co-developed and co-taught
 
 ## Teaching Assistant
 
