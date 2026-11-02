@@ -19,5 +19,6 @@ We study how adolescents' second-order beliefs about their parents' occupational
 **Reducing Emissions in the Laboratory**<br>
 with Nils Handler and Nicolás Harrington Ruiz
 
-**Men in Care Jobs**<br>
-with Anne Ardila Brenøe, Natalie Irmert, and Louisa Roos
+<details><summary><strong>Men in Care Jobs</strong> <br> with Anne Ardila Brenøe, Natalie Irmert, and Louisa Roos</summary>
+Demand for care workers is rising, yet men remain starkly underrepresented in care occupations. Drawing on original surveys of adolescents, data from a large apprenticeship platform, longitudinal administrative education records, and the Swiss Labour Force Survey, we study why few boys choose care in Switzerland's vocational education system. We provide a descriptive analysis of who selects into care, what beliefs and misperceptions may underlie the gender gap, and how men in care fare over time, with lessons for policies to diversify the care workforce.
+</details>
